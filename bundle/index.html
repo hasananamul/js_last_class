@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Facebook post and timeline </title>
+    <script defer src="bundle.js"></script></head>
+
+    <body>
+
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3"></div>
+                <div class="col-md-6">
+
+
+                    <!-- User_info  -->
+                    <div class="user_info_section my-3">
+                        <div class="card shadow">
+                            <div class="card-body">
+                                <div class="user_profile_info d-flex align-items-center">
+                                    <div class="user_photo">
+                                        <img src="https://scontent-xsp1-2.xx.fbcdn.net/v/t1.6435-9/105699964_2744923665739681_2716766128330014473_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ZJQWc6kdbfoAX9xP16-&_nc_ht=scontent-xsp1-2.xx&oh=00_AT__ynVeh2lJJw5eWJsY8LuZ6L4lhBEW5gbAdIdsnLSXlA&oe=626AF22F"
+                                            alt="Hasan Anamul">
+                                    </div>
+                                    <div class="post_button">
+                                        <button data-bs-toggle="modal" data-bs-target="#modelId">What's on your mind, Hasan ? </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--user_info_section-->
+
+                    <!-- Post showing_section start -->
+                    <div class="post_showing_section">
+                        <div class="user_post_show">
+
+                            <!-- Card -->
+                        </div>
+                    </div>
+                    <!-- Post showing_section start -->
+
+
+
+
+                </div>
+                <div class="col-md-3"></div>
+            </div>
+        </div>
+
+        <!-- Button trigger modal -->
+
+
+        <!-- Modal -->
+        <div class="modal fade" id="modelId">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header ">
+                        <h5 class="modal-title"> Create a post </h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="alert_msg"></div>
+                        <div class="post_create_field">
+                            <form class="post_form" method="post">
+
+                                <div class="mb-3">
+                                    <input type="text" class="form-control" name="name" id="name" placeholder="Your Name">
+                                </div>
+                                <div class="mb-3">
+                                    <input type="url" class="form-control" name="photo" id="photo" placeholder="Your image link">
+                                </div>
+                                <div class="mb-3">
+                                    <textarea class="form-control" name="content" id="content" rows="6" placeholder="Whats on  your mind ?"></textarea>
+                                </div>
+                                <button type="submit" class="btn btn-primary w-100">Post</button>
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </body>
+
+</html>

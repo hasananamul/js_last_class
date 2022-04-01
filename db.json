@@ -1,0 +1,58 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "name": "Hasan Anmul",
+      "photo": "https://images.pexels.com/photos/924633/pexels-photo-924633.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "post_content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque vitae facere reprehenderit distinctio quod necessitatibus ut nemo dolorum molestiae voluptas, sed ducimus optio odit ullam sunt rerum laudantium?"
+    },
+    {
+      "id": 2,
+      "name": "Tanbir Akon",
+      "photo": "https://static.remove.bg/remove-bg-web/b27c50a4d669fdc13528397ba4bc5bd61725e4cc/assets/start_remove-c851bdf8d3127a24e2d137a55b1b427378cd17385b01aec6e59d5d4b5f39d2ec.png",
+      "post_content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque vitae facere reprehenderit distinctio quod necessitatibus ut nemo dolorum molestiae voluptas, sed ducimus optio odit ullam sunt rerum laudantium?"
+    },
+    {
+      "id": 3,
+      "name": "Rafinul Akon",
+      "photo": "https://clickmajic.com/blog/wp-content/uploads/Remove-image-background-in-just-5-seconds-2-1-1024x576.png",
+      "post_content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque vitae facere reprehenderit distinctio quod necessitatibus ut nemo dolorum molestiae voluptas, sed ducimus optio odit ullam sunt rerum laudantium?"
+    },
+    {
+      "id": 4,
+      "name": "Jubayer Akon",
+      "photo": "https://www.decolore.net/wp-content/uploads/2020/03/background-remover-tools-cover2.jpg",
+      "post_content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque vitae facere reprehenderit distinctio quod necessitatibus ut nemo dolorum molestiae voluptas, sed ducimus optio odit ullam sunt rerum laudantium?"
+    },
+    {
+      "id": 5,
+      "name": "Shahin Akon",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqCTMoVDYcsP6Ckf_IOvZk9s4nS6UTInyvQCnOKTneGl7jOYGitzn3DIVir12Ydm0ZaKw&usqp=CAU",
+      "post_content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque vitae facere reprehenderit distinctio quod necessitatibus ut nemo dolorum molestiae voluptas, sed ducimus optio odit ullam sunt rerum laudantium?"
+    },
+    {
+      "name": "Potatto",
+      "photo": "https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "post_content": "lorejkwjds",
+      "id": 6
+    },
+    {
+      "name": "hasan",
+      "photo": "https://images.pexels.com/photos/2734512/pexels-photo-2734512.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "post_content": "পথ চলাটা শুরু হয়েছিলো আজ থেকে ঠিক ২ বছর ১ মাস ২৫ দিন আগে, ৩ ফেব্রুয়ারি ২০২০ থেকে। \nছোট্ট একটা উদ্যোগের মাধ্যমে, চলেন এবার ডিফারেন্ট কিছু করা যাক, আমি কিভাবে কাজ করি সেটাই শিখাবো সবাইকে আমার মতো করে....\nআলহামদুলিল্লাহ, যেই কথা সেই কাজ! Day 1 থেকে শুরু করে Day 57 পর্যন্ত টোটাল 138 টি ভিডিও, সেই সাথে মার্কেটপ্লেসের ভিডিও থেকে শুরু করে প্রতি শুক্রবারে লাইভ।",
+      "id": 7
+    },
+    {
+      "name": "Hasan Anamul",
+      "photo": "https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "post_content": "আপনার ভিতরে লুকানো অনেক প্রতিভা রয়েছে, যা উপর থেকে দেখলে বুঝা যায় না। আপনাকে দেখলে মনটা ভালো হয়ে যায়। আপনি এক কথায় বস।",
+      "id": 8
+    },
+    {
+      "name": "poliya",
+      "photo": "https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "post_content": "lorem ipsumjkjjhjkhasjqsajsz",
+      "id": 9
+    }
+  ]
+}
